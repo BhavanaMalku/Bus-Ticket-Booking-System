@@ -1,0 +1,47 @@
+
+{
+    "buses": [
+        {
+            "bus_number": "TS09AB1234",
+            "source": "Hyderabad",
+            "destination": "Vijayawada",
+            "total_seats": 10,
+            "ticket_price": 500
+        },
+        {
+            "bus_number": "TS09CD5678",
+            "source": "Hyderabad",
+            "destination": "Goa",
+            "total_seats": 10,
+            "ticket_price": 1500
+        },
+        {
+            "bus_number": "TS09EF9012",
+            "source": "Hyderabad",
+            "destination": "Bangalore",
+            "total_seats": 10,
+            "ticket_price": 1000
+        },
+        {
+            "bus_number": "TS09GH3456",
+            "source": "Hyderabad",
+            "destination": "Isha Foundation",
+            "total_seats": 10,
+            "ticket_price": 1800
+        },
+        {
+            "bus_number": "TS09IJ7890",
+            "source": "Hyderabad",
+            "destination": "Tiruvannamalai",
+            "total_seats": 10,
+            "ticket_price": 1200
+        },
+        {
+            "bus_number": "TS09KL2468",
+            "source": "Hyderabad",
+            "destination": "Tirupati",
+            "total_seats": 10,
+            "ticket_price": 800
+        }
+    ]
+}
